@@ -1,0 +1,15 @@
+{
+    "16x9": {
+        "src": "../../images/test.jpg",
+        "alt": "Image"
+    },
+    "h2-secondary": {
+    	"text": "2016 Institute of the Environment and Sustainability Graduation Ceremony"
+    },
+    "paragraph-sm": {
+    	"text": "Video produced from the UCLA Institute of the Environment and Sustainability 2016 Graduation Ceremony."
+    },
+    "column": {
+        "size": "3"
+    }
+}

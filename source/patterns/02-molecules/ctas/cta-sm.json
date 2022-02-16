@@ -1,0 +1,13 @@
+{
+    "h2-secondary": {
+    	"text": "Here is a headline in a sidebar"
+    },
+
+    "paragraph-sm": {
+    	"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed lectus turpis. Interdum et malesuada fames ac ante ipsum primis"
+    },
+
+     "btn-text-blue": {
+        "text": "LEARN MORE"
+    }
+}

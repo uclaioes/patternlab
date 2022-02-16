@@ -1,0 +1,17 @@
+{
+    "image": {
+        "src": "../../images/event_16_9.jpg",
+        "alt": "Image"
+    },
+    "h5-blue": {
+    	"text": "Research Project"
+    },
+    "h3": {
+    	"text": "Long Distance Movements and Resource Use by Hornbills in Cameroon"
+    },
+	"social-btn": {
+		"fa-icon1": "facebook",
+		"fa-icon2": "twitter",
+		"fa-icon3": "envelope"
+	}
+}

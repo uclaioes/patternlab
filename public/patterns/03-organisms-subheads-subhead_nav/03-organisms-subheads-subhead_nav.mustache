@@ -1,0 +1,18 @@
+<div class="subhead">
+	<div class="subhead-container">
+		<div class="img-container">
+			{{> atoms-sub-nav-logo }}
+		</div>
+		<div class="col-8-12  mobile-col-1-1">
+			{{> atoms-h1 }}
+		</div>
+		<nav class="col-8-12 subhead-nav">
+			<ul>
+				<li>{{> atoms-nav-sub-button-active }}</li>
+				{{# subheadNavItems }}
+					<li>{{> atoms-nav-sub-button }}</li>
+				{{/ subheadNavItems }}
+			</ul>
+		</nav>
+	</div>
+</div>

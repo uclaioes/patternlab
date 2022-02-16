@@ -1,0 +1,20 @@
+{
+     "image": {
+        "src": "../../images/4x3_list_image.jpg",
+        "alt": "Image"
+    },
+
+      "h5-blue": {
+    	"text": "blog"
+    },
+    "h2-secondary": {
+    	"text": "Taylor Guitars donates $400,000 toward ebony conservation and restoration in Cameroon"
+    },
+
+    "paragraph-sm": {
+    	"text": "Bob Taylor, a world-renowned guitar maker of Taylor Guitars, donated $400,000 in support of ebony conservation research and restoration efforts, which will be coordinated by CTR's Thomas Smith, in Cameroon."
+    },
+    "column": {
+        "size": "2"
+    }
+}

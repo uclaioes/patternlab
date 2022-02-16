@@ -1,0 +1,40 @@
+<div class="masthead-container bg-solid">
+	<div>
+		<div class="masthead-content">
+			<div class="col-1-1 back-btn">
+				{{> atoms-btn-back-blue }}
+			</div>
+			<div class="col-1-2">
+				{{> atoms-16x9 }}
+			</div>
+			<div class="col-1-2">
+				<div class="masthead-content-info-container">
+					{{> atoms-h5-blue }}
+					{{> atoms-h3 }}
+					<ul class="col-10-12 tag-text">
+						{{# tags }}
+							<li>{{> atoms-tag-button }}</li>
+						{{/ tags }}
+					</ul>
+					<div class="social-btn-container">
+						<a href="#">
+							<div class="social-btn social-btn-blue">
+								<i class="fab fa-{{ social-btn.fa-icon2 }}"></i>
+							</div>
+						</a>
+						<a href="#">
+							<div class="social-btn social-btn-blue">
+								<i class="fab fa-{{ social-btn.fa-icon1 }}-square"></i>
+							</div>
+						</a>
+						<a href="#">
+							<div class="social-btn social-btn-blue">
+								<i class="fas fa-{{ social-btn.fa-icon3 }}"></i>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,259 @@
+{
+	"headingText": "This is a heading from data.json",
+	"paragraphText": "This is a paragraph form data.json",
+	"url": "https://www.ioes.ucla.edu/",
+	"label": "Lorem Ipsum",
+	"card-stacked-image": {
+		"src": "../../images/card-stacked.jpg",
+		"alt": "Image"
+	},
+
+	"max": {
+		"src": "../../images/max_card_full.jpg",
+		"alt": "Image"
+	},
+
+	"v-max": {
+		"src": "../../images/3x4_person.jpg",
+		"alt": "Image"
+	},
+
+	"16x9": {
+		"src": "../../images/16x9_card_split.jpg",
+		"alt": "Image"
+	},
+
+	"3x4": {
+		"src": "../../images/3x4_spotlight_full.jpg",
+		"alt": "Image"
+	},
+
+	"4x3": {
+		"src": "../../images/4x3_list_image.jpg",
+		"alt": "Image"
+	},
+
+	"playbutton": {
+		"src": "../../images/playbutton.svg",
+		"alt": "Image"
+	},
+
+	"subNavLogo": {
+		"src": "../../images/la-kretz-logo.jpg",
+		"alt": "Image"
+	},
+
+	"ioesLogo": {
+		"src": "../../images/ioes-logo.png",
+		"alt": "IoES Logo PNG",
+		"class": "ioes-logo"
+	},
+
+	"ioesLogoSVG": {
+		"src": "../../images/ioes-logo.svg",
+		"alt": "IoES Logo SVG Format",
+		"class": "ioes-logo"
+	},
+
+	"body-link": {
+		"text": "This is a link"
+	},
+
+	"h1-body": {
+		"text": "This is an h1 within the body"
+	},
+
+	"h2-body": {
+		"text": "This is an h2 within the body"
+	},
+
+	"h3-body": {
+		"text": "This is an h3 within the body"
+	},
+
+	"h4-body": {
+		"text": "This is an h4 within the body"
+	},
+
+	"h5-body": {
+		"text": "This is an h5 within the body"
+	},
+
+	"h6-body": {
+		"text": "This is an h6 within the body"
+	},
+
+	"caption-body": {
+		"text": "This is a photo caption"
+	},
+
+	"li-body-1": {
+		"text": "Quisque elit tellus, mattis id lorem quis, hendrerit convallis sapien. Cras sodales enim non fringilla hendrerit. Quisque erat tortor, dapibus vitae vestibulum vitae, rutrum id nisl. Donec a diam nec libero molestie efficitur."
+	},
+
+	"li-body-2": {
+		"text": "Quisque vitae consectetur lacus, ac aliquet odio. Nunc nec bibendum tellus. Nunc sed nibh vitae sem porta ullamcorper. Donec eget velit at elit tristique efficitur id id lorem. "
+	},
+
+	"li-body-3": {
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pharetra eu urna id sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ultrices eleifend velit eu sollicitudin. "
+	},
+
+	"blockquote": {
+		"text": "This is a blockquote. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sapien pellentesque sem semper euismod. Mauris non ipsum elit. Integer ut feugiat nunc. Vestibulum suscipit quam at erat vestibulum, a scelerisque risus sagittis. "
+	},
+
+	"h1": {
+		"text": "Moving Science to Action"
+	},
+
+	"h2-card-split": {
+		"text": "HELLO"
+	},
+
+	"h5-black": {
+		"text": "by PETER KAREIVA"
+	},
+
+	"h2-secondary": {
+		"text": "L.A. students get an environmental filmmaking debut"
+	},
+
+	"h2-white": {
+		"text": "Coachella Valley Habitat Conservation Planning Process Report"
+	},
+
+
+	"h2-card-half": {
+		"text": "Collecting and Using Economic Information to Guide The Management of Coastal Recreational Resources in California"
+	},
+
+	"h5-white": {
+		"text": "research project"
+	},
+
+	"h5-blue": {
+		"text": "update"
+	},
+
+	"h6": {
+		"text": "Safeguarding biodiversity: what is perceived as working according to the conservation community?"
+	},
+
+	"h3": {
+		"text": "Earth Now: Earth 2050"
+	},
+	"address": {
+		"text":	"La Kretz Hall, Suite 300, 619 Charles E. Young Dr. East Los Angeles, CA 90095-1496"
+	},
+	"paragraph-lrg": {
+		"text": "UCLA College Luskin Endowment Inaugural Symposium, October 18-20, 2018"
+	},
+
+	"paragraph-sm": {
+		"text": "The UC Conservation Genomics Consortium’s ongoing project, funded by the UC Catalyst Grant Program, is aiming to establish a genomics network across six UC campuses in order to support research, develop new analytical tools, host workshops, and more. The Consortium has created a website to keep track of the project, click on the link to find out more."
+
+	},
+
+	"paragraph-sm-white": {
+		"text": "This innovative, dual-component program offers both breadth and depth through a solid foundation in natural sciences and a focus on understanding environmental issues across earth, atmospheric, life, and social sciences."
+
+	},
+
+	  "paragraph-sm-bold": {
+		"text": "Center for Tropical Research | UCLA Institute of the Environment and Sustainability"
+
+	},
+
+	"paragraph": {
+		"text": "This innovative, dual-component program offers both breadth and depth through a solid foundation in natural sciences and a focus on understanding environmental issues across earth, atmospheric, life, and social sciences."
+
+	},
+
+	"published-work": {
+		"text": "Published Work"
+	},
+
+	 "btn-text-blue": {
+		"text": "featured projects"
+	},
+
+	"btn-text-yellow": {
+		"text": "learn more"
+	},
+
+	"primary-btn": {
+		"text": "learn more"
+	},
+
+	"caption": {
+		"text": "© Scott Gruber"
+	},
+
+	"caption-bold": {
+		"text": "Director and Professor"
+	},
+
+	"phone-number": {
+		"text": "(310) 774-7975"
+	},
+	 "tag-btn": {
+		"text": "tags"
+	},
+	"social-btn": {
+		"fa-icon1": "facebook",
+		"fa-icon2": "twitter",
+		"fa-icon3": "envelope",
+		"fa-icon4": "linkedin",
+		"fa-icon5": "instagram",
+		"fa-icon6": "play"
+	},
+	"btn-text-gray-active": {
+		"text":  "Resources"
+	},
+	"tags": [
+		{
+			"label": "wildlife"
+		},
+		{
+			"label": "urban"
+		},
+		{
+			"label": "conservation"
+		}
+	],
+	"sideNavItems": [
+		{
+			"label": "Course Requirements"
+		},
+		{
+			"label": "Minor Concentration"
+		},
+		{
+			"label": "Senior Practicum"
+		},
+		{
+			"label": "Honors Program"
+		},
+		{
+			"label": "How to Declare"
+		}
+	],
+	"subheadNavItems": [
+		{
+			"label": "Program"
+		},
+		{
+			"label": "Prospective Students"
+		},
+		{
+			"label": "Current Students"
+		},
+		{
+			"label": "Alumni"
+		},
+		{
+			"label": "People"
+		}
+	]
+}

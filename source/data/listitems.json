@@ -1,0 +1,44 @@
+{
+	"1": {
+		"label": "Welcome",
+		"tag": "wildlife",
+		"sidenav": "Overview",
+		"stat-number": "2x-3x",
+		"stat-desc": "Low-income neighborhoods and communities of color generally have less access to healthy food"
+	},
+	"2": {
+		"label": "Program",
+		"tag": "urban",
+		"sidenav": "Course Requirements",
+		"stat-number": "17",
+		"stat-desc": "There are 17 principles of Environmental Justice drafted and adopted by the First National People of Color"
+	},
+	"3": {
+		"label": "Prospective Students",
+		"tag": "conservation",
+		"sidenav": "Minor Concentration",
+		"stat-number": "29%",
+		"stat-desc": "LA residents live within a quarter mile of a park. Low-income communities have less then ~2 acres per 1000 people"
+	},
+	"4": {
+		"label": "Current Students",
+		"tag": "water",
+		"sidenav": "Senior Practicum",
+		"stat-number": "50%",
+		"stat-desc": "LA residents like UCLA. The other 50% like USC"
+	},
+	"5": {
+		"label": "Alumni",
+		"tag": "birds",
+		"sidenav": "Honors Progrom",
+		"stat-number": "$1,000",
+		"stat-desc": "Create student scholarships for $1,000"
+	},
+	"6": {
+		"label": "People",
+		"tag": "recycling",
+		"sidenav": "How to Declare",
+		"stat-number": "100%",
+		"stat-desc": "100% of freshman love the environment"
+	}
+}

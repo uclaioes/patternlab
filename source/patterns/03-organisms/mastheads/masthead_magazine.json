@@ -1,0 +1,17 @@
+{
+    "image": {
+        "src": "../../images/event_16_9.jpg",
+        "alt": "Image"
+    },
+    "h5-white": {
+    	"text": "Story"
+    },
+    "h3": {
+    	"text": "New endangered goby species honors late UCLA student"
+    },
+	"social-btn": {
+		"fa-icon1": "facebook",
+		"fa-icon2": "twitter",
+		"fa-icon3": "envelope"
+	}
+}

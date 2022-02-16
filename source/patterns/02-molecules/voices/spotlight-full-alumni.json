@@ -1,0 +1,20 @@
+{
+    "image": {
+        "src": "../../images/3x4_spotlight_full.jpg",
+        "alt": "Image"
+    },
+
+    "h5-blue": {
+        "text": "alumni spotlight"
+    },
+
+    "h2-card-split": {
+        "text": "Dorothy Kieu Le"
+    },
+
+    "paragraph-sm": {
+        "text": "Dorothy was the very first student to receive an undergraduate degree in Environmental Science in June 2007. A cycling advocate and active volunteer in the community, she was a key student leader who made a big impact at UCLA. Dorothy helped lead student group E3: Ecology, Economy, Equity and contributed to the effort to launch The Green Initiative Fund at UCLA. She previously worked as the Planning and Policy Director for the Los Angeles County Bicycle Coalition before accepting the position with Rutgers University's Department of Transportation Services. In her new role she will work to transform bike and pedestrian programs on the campus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque sollicitudin cursus. Aliquam erat quam, dictum eu ligula at, pretium luct"
+    }
+
+
+}

@@ -1,0 +1,19 @@
+{
+    "image": {
+        "src": "../../images/card-stacked.jpg",
+        "alt": "Image"
+    },
+
+    "h3": {
+    	"text": "Environmental Science & Engineering, D. Env."
+    },
+
+    "paragraph-sm": {
+    	"text": "This innovative professional doctorate program provides practical education for tomorrow's environmental problem solvers by emphasizing the interactions and interdependencies between science, engineering, public policy, economics and law in the protection of the environment and public health."
+    },
+
+     "btn-text-blue": {
+        "text": "LEARN MORE"
+    }
+
+}

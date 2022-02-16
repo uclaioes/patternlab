@@ -1,0 +1,22 @@
+<div class="card-list-pub clear">
+	<div class="grid">
+		<div class="col-6-12">
+				{{> atoms-h2-secondary }}
+			<div class="caption-list">
+				{{> atoms-caption }}
+			</div>
+			<div class="add-bar">
+				{{> atoms-published-work(text: 'Published work') }}
+			</div>
+			<div class="add-bar">
+				{{> atoms-published-work(text: '2010') }}
+			</div>
+				{{> atoms-published-work(text: 'Publication') }}
+			<ul class="col-10-12 tag-text">
+				{{# tags }}
+					<li>{{> atoms-tag-button }}</li>
+				{{/ tags }}
+			</ul>
+		</div>
+	</div>
+</div>

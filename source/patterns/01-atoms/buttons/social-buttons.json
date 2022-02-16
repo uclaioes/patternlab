@@ -1,0 +1,10 @@
+{
+	"social-btn": {
+		"fa-icon1": "facebook",
+		"fa-icon2": "twitter",
+		"fa-icon3": "envelope",
+		"fa-icon4": "linkedin",
+		"fa-icon5": "instagram",
+		"fa-icon6": "play"
+	}
+}

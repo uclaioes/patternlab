@@ -1,0 +1,16 @@
+{
+     "image": {
+        "src": "../../images/max_card_half_sars.jpg",
+        "alt": "Image"
+    },
+
+    "h5-white": {
+    	"text": "graduate residency project"
+    },
+
+     "h2-card-half": {
+    	"text": "Collecting and Using Economic Information to Guide The Management of Coastal Recreational Resources in California"
+    }
+
+    
+}

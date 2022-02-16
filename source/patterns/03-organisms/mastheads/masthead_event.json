@@ -1,0 +1,20 @@
+{
+    "image": {
+        "src": "../../images/event_16_9.jpg",
+        "alt": "Image"
+    },
+    "h5-white": {
+    	"text": "Event"
+    },
+    "h3": {
+    	"text": "Earth Now: Earth 2050"
+    },
+    "h6": {
+        "text": "UCLA College Luskin Endowment Inaugural Symposium"
+    },
+	"social-btn": {
+		"fa-icon1": "facebook",
+		"fa-icon2": "twitter",
+		"fa-icon3": "envelope"
+	}
+}

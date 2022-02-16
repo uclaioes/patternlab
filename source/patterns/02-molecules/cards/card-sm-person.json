@@ -1,0 +1,12 @@
+{
+    "16x9": {
+        "src": "../../images/16x9_card_sm.jpg",
+        "alt": "Image"
+    },
+    "h5-black": {
+        "text": "David Colgan"
+    },
+    "paragraph": {
+        "text": "Director of Communications"
+    }
+}

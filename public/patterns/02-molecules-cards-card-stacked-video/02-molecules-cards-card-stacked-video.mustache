@@ -1,0 +1,19 @@
+<article id="post-###" class="card-stacked">
+	<div class="col-1-{{ column.size }}">
+		<a href="#" rel="bookmark">
+			<div class="video-container">
+				{{> atoms-play-btn }}
+				<div class="video-image">
+					{{> atoms-16x9 }}		
+				</div>	
+			</div>
+			{{> atoms-h2-secondary }}
+		</a>
+		{{> atoms-paragraph-sm }}
+		<ul class="col-10-12 tag-text">
+			{{# tags }}
+				<li>{{> atoms-tag-button }}</li>
+			{{/ tags }}
+		</ul>
+    </div>
+</article>

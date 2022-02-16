@@ -1,0 +1,13 @@
+{
+    "image": {
+        "src": "../../images/card-split.jpg",
+        "alt": "Image"
+    },
+
+    "h2-secondary": {
+    	"text": "UC Conservation Genomics Consortium "
+    },
+    "column": {
+        "size": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+     "image": {
+        "src": "../../images/16x9_card_split.jpg",
+        "alt": "Image"
+    },
+
+    "h5-white": {
+    	"text": "EVOLUTIONARY CHANGE IN HUMAN-ALTERED ENVIRONMENTS"
+    },
+    "column": {
+        "size": "3"
+    }
+}

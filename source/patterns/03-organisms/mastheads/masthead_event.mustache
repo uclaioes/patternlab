@@ -1,0 +1,37 @@
+<div class="masthead-container">
+	<div class="bg-image-card" style="background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75)), url('../../images/16x9_card_split.jpg') center / cover no-repeat fixed">
+		<div class="masthead-content">
+			<div class="col-1-1 back-btn">
+				{{> atoms-btn-back }}
+			</div>
+			<div class="col-2-3">
+				{{> atoms-16x9 }}
+			</div>
+			<div class="col-1-3">
+				<div class="masthead-content-info-container">
+					{{> atoms-h5 }}
+					<h4 class="date-sm brand-yellow">8.18.16 - 8.20.16</h3>
+					{{> atoms-h3-white }}
+					<h6 class="white"> {{ h6.text }}</h6>
+					<div class="social-btn-container">
+					<a href="#">
+							<div class="social-btn social-btn-yellow">
+								<i class="fab fa-{{ social-btn.fa-icon2 }}"></i>
+							</div>
+						</a>
+						<a href="#">
+							<div class="social-btn social-btn-yellow">
+								<i class="fab fa-{{ social-btn.fa-icon1 }}-square"></i>
+							</div>
+						</a>
+						<a href="#">
+							<div class="social-btn social-btn-yellow">
+								<i class="fas fa-{{ social-btn.fa-icon3 }}"></i>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

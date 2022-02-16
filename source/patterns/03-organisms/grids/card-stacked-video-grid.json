@@ -1,0 +1,15 @@
+{
+	"16x9": {
+	    "src": "../../images/16x9_card_stacked.jpg",
+	    "alt": "Image"
+	},
+	"h2-secondary": {
+		"text": "Los Angeles is a metropolitan den for mountain lions"
+	},
+	"paragraph-sm": {
+		"text": "UCLA-NPS study is first to investigate where the cats hunt in highly urbanized areas."
+	},
+	"column": {
+		"size": "1"
+	}
+}
